@@ -353,7 +353,7 @@ and maintain on the Kusama network, please head over to our
   Parity Substrate chains.
 - [Subscan.io](https://subscan.io) - Explorer for Substrate based chains.
 - [Polkadot Overview](https://youtu.be/lIghiCmHz0U) - Dr. Gavin Wood presents an overview of
-  Polkadot. (Video)
+  Polkadot. (Video is private)
 - [Polkadot Overview](https://techcrunch.com/video/fireside-chat-with-jutta-steiner-parity-technologies/) -
   Dr. Jutta Steiner presents Polkadot. (Video)
 - [Polkadot & Substrate Overview](https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be) -
